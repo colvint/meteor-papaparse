@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "papaparse": {
+      "version": "4.1.2"
+    }
+  }
+}
